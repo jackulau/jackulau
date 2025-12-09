@@ -16,8 +16,8 @@ I’m a 18 year old passionate about workflow automation and scalable web system
 ## 📊 GitHub Stats & Streak
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Jack-GitHub12&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jack-GitHub12&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jackulau&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jackulau&theme=radical" />
 </p>
 
 ---
