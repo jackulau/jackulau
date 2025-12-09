@@ -12,14 +12,6 @@ I’m a 18 year old passionate about workflow automation and scalable web system
 * 💼 Previously co‑founded **Speechstream** (exited in December 2024).
 * 🤖 Experienced in developing botting applications and proxy solutions.
 * Open-source projects include StackSlueth a real-time performance profiling tool for full-stack applications
-
-## 📊 GitHub Stats & Streak
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jackulau&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jackulau&theme=radical" />
-</p>
-
 ---
 
 ## 📫 Connect with Me
