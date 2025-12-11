@@ -1,4 +1,4 @@
-# Hi, I’m Jack Lau 👋
+# Hi, I’m Jack Lau
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Jack-GitHub12\&color=brightgreen)](https://github.com/Jack-GitHub12)
 
