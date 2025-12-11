@@ -4,17 +4,17 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I’m a 18 year old passionate about workflow automation and scalable web systems.
+I’m a 18 year old from the midwest interested in heuristics
 
-* 🔭 Currently building **CrownLabs** with Yoinka — a platform to automate workflows for content creators and agencies.
-* 💼 Previously co‑founded **Speechstream** (exited in December 2024).
-* 🤖 Experienced in developing botting applications and proxy solutions.
-* Open-source projects include StackSlueth a real-time performance profiling tool for full-stack applications
+* Currently building **CrownLabs**, a software studio for consumer apps
+* Previously co‑founded **Speechstream** (exited in December 2024).
+* Experienced in developing botting applications and proxy solutions.
+* Open-source projects include Prism, an open-source web agent.
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 
 <p align="center">
   <a href="https://x.com/jack8lau"><img alt="X" src="https://img.shields.io/badge/X-1DA1F2?logo=x&logoColor=white" /></a>
