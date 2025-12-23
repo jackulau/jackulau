@@ -8,8 +8,8 @@
 
 I’m a 18 year old from the midwest interested in heuristics
 
-* Currently building **CrownLabs**, a software studio for consumer apps
-* Previously co‑founded **Speechstream** (exited in December 2024).
+* Currently building **CrownLabs.ai**, a software studio for consumer apps
+* Previously co‑founded **Speechstream.co** (exited in December 2024).
 * Experienced in developing botting applications and proxy solutions.
 * Open-source projects include Prism, an open-source web agent.
 ---
