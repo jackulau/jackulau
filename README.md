@@ -1,12 +1,10 @@
-# Hi, I’m Jack Lau
-
 [![Profile Views](https://komarev.com/ghpvc/?username=Jack-GitHub12\&color=brightgreen)](https://github.com/Jack-GitHub12)
 
 ---
 
 ## About Me
 
-I’m a 18 year old from the midwest interested in heuristics
+Hi, I’m Jack Lau, an 18 year old from the midwest interested in heuristics
 
 * Currently building **CrownLabs.ai**, a software studio for consumer apps
 * Previously co‑founded **Speechstream.co** (exited in December 2024).
