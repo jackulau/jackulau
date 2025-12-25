@@ -16,7 +16,7 @@ I’m a 18 year old from the midwest interested in heuristics
 
 ## Connect with Me
 
-<p align="center">
+<p align="left">
   <a href="https://x.com/jack8lau"><img alt="X" src="https://img.shields.io/badge/X-1DA1F2?logo=x&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/-jacklau"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
 </p>
