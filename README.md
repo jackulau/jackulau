@@ -1,4 +1,4 @@
-[![Profile Views](https://komarev.com/ghpvc/?username=Jack-GitHub12\&color=brightgreen)](https://github.com/Jack-GitHub12)
+[![Profile Views](https://komarev.com/ghpvc/?username=jackulau\&color=brightgreen)](https://github.com/jackulau)
 
 ---
 
