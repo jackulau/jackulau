@@ -1,5 +1,3 @@
-[![Profile Views](https://komarev.com/ghpvc/?username=jackulau\&color=brightgreen)](https://github.com/jackulau)
-
 ---
 
 ## About Me
