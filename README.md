@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hi, I’m Jack Lau, an 18 year old from the midwest interested in heuristics
+Hi, I’m Jack Lau, an 18 year old from the midwest
 
 * Currently building **CrownLabs.ai**, a software studio for consumer apps
 * Previously co‑founded **Speechstream.co** (exited in December 2024).
