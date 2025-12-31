@@ -2,7 +2,7 @@
 
 [![X](https://img.shields.io/badge/X-Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/jack8lau)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-jacklau)
-[![Website](https://img.shields.io/badge/jacklau.dev-portfolio-black?style=for-the-badge)](https://www.jacklau.dev)
+[![Website](https://img.shields.io/badge/jacklau.dev-portfolio-black?style=for-the-badge)](https://jacklau.dev)
 
 18-year-old from the midwest
 
@@ -14,7 +14,9 @@ currently building **[Crownlabs](https://crownlabs.ai)** — a software studio f
 
 ---
 
-CS + Applied AI Minor @ Iowa State University | George Washington Carver Scholar
+CS + Applied AI Minor @ Iowa State University  
+George Washington Carver Scholar
+
 incoming Quality Analytics intern @ John Deere (Jan 2026)
 
 ---
