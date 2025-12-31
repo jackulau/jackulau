@@ -14,7 +14,8 @@ currently building **[Crownlabs](https://crownlabs.ai)** — a software studio f
 
 ---
 
-CS + Applied AI Minor @ Iowa State University George Washington Carver Scholar
+CS + Applied AI Minor @ Iowa State University 
+* George Washington Carver Scholar ( Full Tuition )
 
 incoming Quality Analytics intern @ John Deere (Jan 2026)
 
