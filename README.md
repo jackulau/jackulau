@@ -1,21 +1,23 @@
----
+# Hi, I'm Jack Lau 👋
 
-## About Me
+[![X](https://img.shields.io/badge/X-Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/jack8lau)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-jacklau)
+[![Website](https://img.shields.io/badge/jacklau.dev-portfolio-black?style=for-the-badge)](https://www.jacklau.dev)
 
-Hi, I’m Jack Lau, an 18 year old from the midwest
+18-year-old from the midwest
 
-* Currently building **CrownLabs.ai**, a software studio for consumer apps
-* Previously co‑founded **Speechstream.co** (exited in December 2024).
-* Experienced in developing botting applications and proxy solutions.
-* Open-source projects include Prism, an open-source web agent.
----
+currently building **[Crownlabs](https://crownlabs.ai)** — a software studio for consumer apps
 
-## Connect with Me
-
-<p align="left">
-  <a href="https://x.com/jack8lau"><img alt="X" src="https://img.shields.io/badge/X-1DA1F2?logo=x&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/-jacklau"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
-</p>
+* previously co-founded **Speechstream.co** (exited December 2024)
+* experienced in developing botting applications and proxy solutions
+* open-source projects include **Prism**, an open-source web agent
 
 ---
+
+CS + Applied AI Minor @ Iowa State University | George Washington Carver Scholar
+incoming Quality Analytics intern @ John Deere (Jan 2026)
+
+---
+
+hackathon enthusiast | former competitive robotics
 
