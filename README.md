@@ -6,7 +6,7 @@
 
 18-year-old from the midwest
 
-currently building **[Crownlabs](https://crownlabs.ai)** — a software studio for consumer apps
+currently building **[Crownlabs](https://crownlabs.ai)** - a software studio for consumer apps
 
 * previously co-founded **Speechstream.co** (exited December 2024)
 * experienced in developing botting applications and proxy solutions
