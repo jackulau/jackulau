@@ -4,9 +4,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-jacklau)
 [![Website](https://img.shields.io/badge/jacklau.dev-portfolio-black?style=for-the-badge)](https://jacklau.dev)
 
-18-year-old from the midwest
+19-year-old from the midwest
 
-currently building **[Crownlabs](https://crownlabs.ai)** - a software studio for consumer apps
+currently building **[Crownlabs](https://crownlabs.ai)** - a software studio for consumer apps on the side
 
 * previously co-founded **Speechstream.co** (exited December 2024)
 * experienced in developing botting applications and proxy solutions
