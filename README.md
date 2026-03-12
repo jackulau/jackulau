@@ -1,4 +1,4 @@
-# Hi, I'm Jack Lau 👋
+# Hi, I'm Jack Lau!
 
 [![X](https://img.shields.io/badge/X-Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/jack8lau)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-jacklau)
