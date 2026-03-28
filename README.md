@@ -18,6 +18,7 @@ CS + Applied AI Minor @ Iowa State University
 * George Washington Carver Scholar ( Full Tuition )
 
 Software Engineer @ Arzana ( YC X26 )
+
 Prev. Part-time Student Data Engineer, Quality Analytics @ John Deere
 
 ---
