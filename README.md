@@ -18,8 +18,8 @@ building [Crownlabs](https://crownlabs.ai) a software studio for consumer apps /
 
 ### Past work
 
-- Co-founded **Speechstream.co** — exited December 2024
-- Built **[Prism](https://github.com/jacklau)**, an open-source web agent
+- Co-founded **speechstream.co** — exited December 2024
+- Built **[prism](https://github.com/jacklau)**, an open-source web agent
 - Botting apps (sneakers, games, etc) & proxy solutions
 
 ---
