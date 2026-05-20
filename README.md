@@ -1,4 +1,4 @@
-# Hi, I'm Jack Lau 👋
+# Hi, I'm Jack Lau
 
 [![X](https://img.shields.io/badge/X-%40jack8lau-000000?style=flat&logo=x&logoColor=white)](https://x.com/jack8lau)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jacklau-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-jacklau)
@@ -8,7 +8,7 @@
 
 currently Forward deployed Software Engineer @ **Arzana** (YC P26)
 
-building **[Crownlabs](https://crownlabs.ai)** a software studio for consumer apps.
+building [Crownlabs](https://crownlabs.ai) a software studio for consumer apps / maintaining software.
 
 
 - Prev. data engineer @ **John Deere**
@@ -20,7 +20,7 @@ building **[Crownlabs](https://crownlabs.ai)** a software studio for consumer ap
 
 - Co-founded **Speechstream.co** — exited December 2024
 - Built **[Prism](https://github.com/jacklau)**, an open-source web agent
-- Botting apps & proxy solutions
+- Botting apps (sneakers, games, etc) & proxy solutions
 
 ---
 
