@@ -8,9 +8,6 @@
 
 currently Forward deployed Software Engineer @ **Arzana** (YC P26)
 
-building [Crownlabs](https://crownlabs.ai) a software studio for consumer apps / maintaining software.
-
-
 - Prev. data engineer @ **John Deere**
 - Prev. student researcher @ **NASA**
 
