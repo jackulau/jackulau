@@ -6,7 +6,6 @@
 
 19-year-old software engineer from the midwest.
 
-currently Forward deployed Software Engineer @ **Arzana** (YC P26)
+currently a Software Engineer @ **Claimable**
 
-- Prev. data engineer @ **John Deere**
-- Prev. student researcher @ **NASA**
+- Prev. forward deployed software engineer @ **Arzana (YC P26)**, data engineer @ **John Deere**, student researcher @ **NASA**
