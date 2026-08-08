@@ -6,6 +6,6 @@
 
 19-year-old software engineer from the midwest.
 
-currently a Software Engineer @ **Claimable**
+currently a Engineer @ Songscription
 
-- Prev. forward deployed software engineer @ **Arzana (YC P26)**, data engineer @ **John Deere**, student researcher @ **NASA**
+- Prev. software engineering @ **Claimable**, forward deployed software engineer @ **Arzana (YC P26)**, data engineer @ **John Deere**, student researcher @ **NASA**
