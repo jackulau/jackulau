@@ -8,4 +8,6 @@
 
 currently a Engineer @ **playanything**
 
+writing @ coding.sh and working on yoinka.com in my freetime :) 
+
 - Prev. software engineering @ **Claimable**, forward deployed software engineer @ **Arzana (YC P26)**, data engineer @ **John Deere**, student researcher @ **NASA**
